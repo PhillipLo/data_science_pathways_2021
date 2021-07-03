@@ -1,1 +1,1 @@
-This is a README.
+Materials for Pathways in Data Science 2021.
